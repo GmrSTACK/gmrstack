@@ -4,7 +4,7 @@ Sou um entusiasta da tecnologia e apaixonado por desenvolvimento front-end. Gost
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmrstack&layout=compact&theme=radical)
 
 ## 📈 Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrstack&show_icons=true&theme=transparent)
