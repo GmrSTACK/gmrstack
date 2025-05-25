@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Durhy
+Gabriel Miranda Rodrigues
 
 Sou um entusiasta da tecnologia e apaixonado por desenvolvimento front-end. Gosto de explorar novas ferramentas e aprimorar minhas habilidades para criar interfaces intuitivas e responsivas.
 
