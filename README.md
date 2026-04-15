@@ -1,89 +1,52 @@
-<!-- Header animado -->
-<div align="center">
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-```
-██████╗ ███╗   ███╗██████╗ ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-██╔════╝ ████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-██║  ███╗██╔████╔██║██████╔╝███████╗   ██║   ███████║██║     █████╔╝ 
-██║   ██║██║╚██╔╝██║██╔══██╗╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
-╚██████╔╝██║ ╚═╝ ██║██║  ██║███████║   ██║   ██║  ██║╚██████╗██║  ██╗
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
+## Sobre mim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%22Tudo+est%C3%A1+ao+alcance+do+homem%2C+mas+tudo+lhe+escapa%2C+em+virtude+de+sua+covardia.%22" alt="Typing SVG" />
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de controle e automação na Universidade Federal de Mato Grosso.
+- 💻 Programa JS/TS, Python e Java.
+- 🌱 Aprendendo mais sobre C/C++, Flutter, Kotlin.
 
-</div>
+## Minhas Skills
 
----
+**Aplicações e dados**
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+**Utilidades**
 
-## `$ whoami`
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-```bash
-> name       : Gabriel  
-> alias      : gmrstack  
-> location   : Brasil 🇧🇷  
-> focus      : Web Dev · Automação · IA  
-> status     : [██████████░░░░░░░] building...
-```
+**DevOps**
 
-> _Quem constrói enquanto os outros hesitam já chegou na frente._
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
----
+**Ferramentas de desenvolvimento**
 
-## `$ ls ./skills`
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<div align="center">
+<br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
-</div>
+## Onde me encontrar
 
----
-
-## `$ cat ./stats`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gmrstack&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c0c0c0"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmrstack&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c0c0c0"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gmrstack&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c0c0c0&dates=555555)
-
-</div>
-
----
-
-## `$ ping ./contact`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/@rodrigues._md-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/rodrigues._md)
-[![GitHub](https://img.shields.io/badge/gmrstack-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/gmrstack)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>
-  <code style="color:#00FF41">// last updated by gmrstack</code>
-</sub>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gmrstack.gmrstack&left_color=black&right_color=green&left_text=visitors)
-
-</div>
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
