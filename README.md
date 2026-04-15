@@ -47,4 +47,4 @@
 
 ## Onde me encontrar
 
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GmrSTACK)
+[![GitHub](https://img.shields.io/github/followers/GmrSTACK?label=follow&style=social)](https://github.com/GmrSTACK)
